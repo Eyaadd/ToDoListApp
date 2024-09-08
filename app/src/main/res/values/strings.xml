@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="avatar">avatar</string>
+    <string name="Save">Save</string>
+    <string name="Date">Due Date</string>
+    <string name="ToDo">Enter what\'s on your mind</string>
+    <string name="Title">Title</string>
+</resources>
